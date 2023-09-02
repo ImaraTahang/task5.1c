@@ -1,0 +1,23 @@
+label{
+    display:inline-block;
+    width:150px;
+    }
+
+.p1{
+    background-color: rgb(209, 219, 217);
+    padding: 10px;
+}
+
+.title{
+    width: 300px;
+    height: 25px;
+}
+
+label[for="desc"], #desc {
+    vertical-align: top;
+  }
+
+.skills{
+    width: 550px;
+    height: 25px;
+}

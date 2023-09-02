@@ -1,0 +1,10 @@
+.App {
+  padding: 20px;
+}
+
+button{
+  float: right;
+  background-color: rgb(209, 219, 217);
+  padding: 12px 40px;
+  font-size: 16px;
+}
